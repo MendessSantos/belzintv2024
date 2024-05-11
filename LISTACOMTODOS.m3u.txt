@@ -1,0 +1,48 @@
+#EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah"
+
+
+############################################################################ Canais | ABERTO
+
+#EXTINF:-1 tvg-id="SBT 1" tvg-name="SBT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBT 2" tvg-name="SBT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT 3" tvg-name="SBT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1633762680.m3u8
+
+#EXTINF:-1 tvg-id="SBT 4" tvg-name="SBT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT 5" tvg-name="SBT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/2048px-Logotipo_do_SBT.svg.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD 1" tvg-name="RECORD 1" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD 2" tvg-name="RECORD 2" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cirion-aju.ittv.com.br/TV_ATALAIA/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RECORD 3" tvg-name="RECORD 3" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD 4" tvg-name="RECORD 4" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-png.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cirion-aju.ittv.com.br/TV_ATALAIA/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO 1" tvg-name="GLOBO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://live-as-11-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY5MDg4LCJpYXQiOjE3MTUzODI2ODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1kZi9wbGF5bGlzdC5tM3U4In0.Dn7swyMtgWiSo8lQAdO2wfLnkSOOGageWTpfXBNXI1-CaJlHTD0PBSeXS1JGllYR3CIfAemy32rKHGykdPEWQRO4bvRJNlx9euKIYETplKl-qR9cWNbBxNdduosVuEHuAhUiBRxM7zoQGZ9BMAb1SB7P2dcympT2cWCAfb4YvMaokBr34DBoz_g43t1lgYQ0krXXUiyvqZbRWgHSqr0BTyS5j9fYuil511mSfZkEoHZo97o5IMnUI5RJG6_ZVFIalOB2Ouq3AUux8moU6RYhqkH53S75cKnrm7hZ53drX8GzpS3oN53LwIIOxQtcnq2bSgioZmxiuhjAM6E5p7h9Yw/nu/f(bMin=2000,dvr=120)/globo-df/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO 2" tvg-name="GLOBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://live-as-10-13.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMTMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4OTM0LCJpYXQiOjE3MTUzODI1MzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.zfLG83BLPh4JXSM5zFfYGD-AHVGVZEQXVdUNYfyrjBXre9qWzvRORGJ_pXh88XZKaCj0WP2aW8FIKejS1QMrzfu2WA5x1pz-D3hTy1d1UJu8zGJgdlhbNUKCEv-8hKHTS9MBcJDqWWy7QKJTBDx2aFnsfTibNJQlRNNQ2f595p0SY8xDvcW32b6NgNNEVDhBQtYwfK3TJbpUgiluaO4q-vzFtEqmGA915CT0LV1QroWq1p1Wm290VyK_-2TSyE_PYTmARfbaw66BYrPUSDslFB2NGDmnhjJpl8Mgq0-UN1z9FVQBVYhuoCj_FLIa-Tmh1jZvG8psfJ3gGFCwaRmKSA/nu/f(bMin=2000,dvr=120)/globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO 3" tvg-name="GLOBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://live-as-04-14.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMTQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1NDY4ODAyLCJpYXQiOjE3MTUzODI0MDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMGQzZTAyYjMtYzAwYi00NjEwLWJhZGQtZTIwYTI0NDViY2I3IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.MydJg52isnwg130bVY_FZTkrVc_eJdktMJ949Kpm5sroevubs-KCYZh_usjhPwbgYUc7TIWHe9LoopXzg115qqqXF316LyBETGlPfxcXONNnGnytoYOy585JHMKsZ4mjovb3HvvcIu50-LtPoV43D8Bj0Z7WWQyccIhRT-CvXlvIYKDp9HuEO9HXynAwDmqc4PQs54_uF3QtRIIgdJCXn6PZiOl7jymo1KMVB-zGINcFJ-KBdT6Gn2z1DU6Le-reBie2Udqb6OaAuBx-50Ddd7-UUt856-CeX2zwMJqywstErWBjU5gBwyybT2RZKVYZcejpyEXcWGMtQ9GHKEs28g/nu/f(bMin=2000,dvr=120)/globo-sp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO 4" tvg-name="GLOBO 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+############################################################################ Canais | ESPORTE
+
+#EXTINF:-1 tvg-id="GLOBO 4" tvg-name="GLOBO 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Canais | ABERTO",Globo Brasília HD
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
